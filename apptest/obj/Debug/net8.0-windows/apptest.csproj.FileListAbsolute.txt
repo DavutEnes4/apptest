@@ -1,0 +1,17 @@
+C:\Users\Davut\source\repos\apptest\apptest\bin\Debug\net8.0-windows\apptest.exe
+C:\Users\Davut\source\repos\apptest\apptest\bin\Debug\net8.0-windows\apptest.deps.json
+C:\Users\Davut\source\repos\apptest\apptest\bin\Debug\net8.0-windows\apptest.runtimeconfig.json
+C:\Users\Davut\source\repos\apptest\apptest\bin\Debug\net8.0-windows\apptest.dll
+C:\Users\Davut\source\repos\apptest\apptest\bin\Debug\net8.0-windows\apptest.pdb
+C:\Users\Davut\source\repos\apptest\apptest\obj\Debug\net8.0-windows\apptest.Form1.resources
+C:\Users\Davut\source\repos\apptest\apptest\obj\Debug\net8.0-windows\apptest.Properties.Resources.resources
+C:\Users\Davut\source\repos\apptest\apptest\obj\Debug\net8.0-windows\apptest.csproj.GenerateResource.cache
+C:\Users\Davut\source\repos\apptest\apptest\obj\Debug\net8.0-windows\apptest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davut\source\repos\apptest\apptest\obj\Debug\net8.0-windows\apptest.AssemblyInfoInputs.cache
+C:\Users\Davut\source\repos\apptest\apptest\obj\Debug\net8.0-windows\apptest.AssemblyInfo.cs
+C:\Users\Davut\source\repos\apptest\apptest\obj\Debug\net8.0-windows\apptest.csproj.CoreCompileInputs.cache
+C:\Users\Davut\source\repos\apptest\apptest\obj\Debug\net8.0-windows\apptest.dll
+C:\Users\Davut\source\repos\apptest\apptest\obj\Debug\net8.0-windows\refint\apptest.dll
+C:\Users\Davut\source\repos\apptest\apptest\obj\Debug\net8.0-windows\apptest.pdb
+C:\Users\Davut\source\repos\apptest\apptest\obj\Debug\net8.0-windows\apptest.genruntimeconfig.cache
+C:\Users\Davut\source\repos\apptest\apptest\obj\Debug\net8.0-windows\ref\apptest.dll
